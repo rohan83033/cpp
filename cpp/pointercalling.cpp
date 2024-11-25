@@ -35,6 +35,9 @@ int main()
     p[1] = y;
     p[2] = z;
     p[3] = q;
+    //wkjefbliwujebfailesub
+    //jbfiwqtuiqw
+    // /abcdefghi
 
     arr(p, 4, n);  
     display(p, 4, n);

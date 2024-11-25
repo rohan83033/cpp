@@ -30,3 +30,5 @@ int main()
    }
    return 0;
 }
+
+// linear search
